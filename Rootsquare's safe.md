@@ -1,5 +1,4 @@
-[[cs]]
-
+## [Rootsquare's safe](https://dreamhack.io/wargame/challenges/1988)
 
 performs 2 checks
 
@@ -9,7 +8,7 @@ What is `(*local_178[local_180])(local_58,sVar2 & 0xffffffff)`?
 
 ![](attachment/ab792c1da69e9e7ee68f03727f6d3681.png)
 
-`local_178` is the pointer to the *lock functions*, so the safe has 4 locks.
+`local_178` is the pointer to the *lock functions*, so this safe has 4 locks.
 
 ### The keyboard
 
