@@ -1,5 +1,5 @@
-[[rev probs]]
 
+[transformation](https://dreamhack.io/wargame/challenges/1970)
 ## get input
 
 ![](attachment/aacb179ffee5f956e303b5f5c1c12123.png)
