@@ -17,7 +17,7 @@ Note that `v7` holds a copy of the file.
 I guessed that the flag was fed to the nucleus in the form of 21 single bytes.
 
 There are two things left to answer now:
-1. Address the "resource"—how do we extract it?
+1. Address the "resource" - how do we extract it?
 2. How should we recover the bytes?
 
 
